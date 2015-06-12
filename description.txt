@@ -1,4 +1,3 @@
-Hey Colin,
 
 Thanks for being willing to play with my senior design project optimization problem! I've attached the spreadsheet I made for last year's team assignments, which wasn't too bad as there were only 17 students and one of the teams had already formed before the semester started (Henry team). This class is ramping up and will have around 100 students in a couple years, so it would be super helpful if I had a better way to do team assignments. Here are the constraints:
 
@@ -8,7 +7,5 @@ Thanks for being willing to play with my senior design project optimization prob
     I didn't do this last year, but I think it would be a good idea to have a team GPA constraint, something like the average for all team members can't be less than 3.
 
 If you look at the spreadsheet, you'll also notice that last year I eliminated a project that didn't get much student interest, and we can do that again as necessary. The students that are shown with only a first choice were specified by the advisor, so I didn't consider assigning them to other projects. The projects the students were assigned to are in bold.
-
-Let me know if you have questions!
 
 Thanks!
